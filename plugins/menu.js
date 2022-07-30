@@ -241,7 +241,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `❀🌐 ${pmenus} WҽႦʂιƚҽ`, rowId: ".website", description: 'Jangan lupa mampir'},
 	]
 	},{
-	title: `${htki} MENU FANGZ BOT${htka}`,
+	title: `${htki} MENU CYLEN BOT${htka}`,
 	rows: [
 	    {title: `இ💬☜ ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
 	    {title: `இ🌱☜ ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
@@ -301,11 +301,11 @@ let tek = `*✧${ucapan()} ${conn.getName(m.sender)}*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 ╰═┅═━═┅═━═┅═━––––––๑
 
-               「 *FANGZ BOT あ⁩* 」
+               「 *CYLEN BOT あ⁩* 」
 `
 const listMessage = {
   text: tek,
-  footer: '📮Fangz BOT V5\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕',
+  footer: '📮Cylen BOT V5\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `LIST FITUR`,
@@ -461,7 +461,7 @@ const listMessage = {
   let fgif = {
     key: {
     remoteJid: 'status@broadcast',
-    participant : '0@s.whatsapp.net'},
+    participant : '0@s.whatsapp.net'}, 
     message: { 
                   "videoMessage": { 
                   "title": wm,
@@ -518,7 +518,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://s.id/Fangzganz'
+                        url: 'https://s.id/Dikaganz'
                     }
                 },
                 {
