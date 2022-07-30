@@ -46,7 +46,7 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 global.pdana = '088215689772' //Dana
 global.povo = '088215689772' //Ovo
 global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
+global.ppulsa = '088223674569' //Pulsa 
 global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
